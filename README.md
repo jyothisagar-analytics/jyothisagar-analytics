@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sai Jyothi 👋
 
-<!--
-**jyothisagar-analytics/jyothisagar-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE CSE Student  
+📊 Aspiring Data Analyst  
+💻 Skilled in Python, SQL, Power BI 
 
-Here are some ideas to get you started:
+## 🔹 Technical Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Excel (Pivot Tables, Dashboards,Lookup Function)
+- Power BI
+- DBMS & Statistics (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+📌 Phishing Detection System  
+- Data cleaning using Pandas  
+- Feature analysis for phishing prediction  
+- Flask web application  
+
+📌 GPS Tracking System  
+- Processed GPS datasets  
+- Structured movement data  
+- Generated analysis reports  
+
+📫 Reach me at: jyothisagar.u@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/contactsaijyothiu
