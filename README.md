@@ -9,7 +9,9 @@
 - SQL
 - Excel (Pivot Tables, Dashboards,Lookup Function)
 - Power BI
-- DBMS & Statistics (Basics)
+- DBMS
+- Statistics
+- EDA 
 
 ## 🔹 Projects
 📌 Phishing Detection System  
